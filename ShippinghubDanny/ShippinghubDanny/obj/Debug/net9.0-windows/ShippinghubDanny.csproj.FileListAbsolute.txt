@@ -1,0 +1,16 @@
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\bin\Debug\net9.0-windows\ShippinghubDanny.exe
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\bin\Debug\net9.0-windows\ShippinghubDanny.deps.json
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\bin\Debug\net9.0-windows\ShippinghubDanny.runtimeconfig.json
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\bin\Debug\net9.0-windows\ShippinghubDanny.dll
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\bin\Debug\net9.0-windows\ShippinghubDanny.pdb
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.Form1.resources
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.csproj.GenerateResource.cache
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.AssemblyInfo.cs
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.dll
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\refint\ShippinghubDanny.dll
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.pdb
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ShippinghubDanny.genruntimeconfig.cache
+C:\Users\Danny\source\repos\ShippinghubDanny\ShippinghubDanny\obj\Debug\net9.0-windows\ref\ShippinghubDanny.dll
