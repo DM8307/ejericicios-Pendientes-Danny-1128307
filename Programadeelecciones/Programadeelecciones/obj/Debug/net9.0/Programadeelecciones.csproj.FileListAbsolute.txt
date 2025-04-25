@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\bin\Debug\net9.0\Programadeelecciones.exe
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\bin\Debug\net9.0\Programadeelecciones.deps.json
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\bin\Debug\net9.0\Programadeelecciones.runtimeconfig.json
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\bin\Debug\net9.0\Programadeelecciones.dll
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\bin\Debug\net9.0\Programadeelecciones.pdb
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\Programadeelecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\Programadeelecciones.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\Programadeelecciones.AssemblyInfo.cs
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\Programadeelecciones.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\Programadeelecciones.dll
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\refint\Programadeelecciones.dll
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\Programadeelecciones.pdb
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\Programadeelecciones.genruntimeconfig.cache
+C:\Users\Danny\source\repos\Programadeelecciones\Programadeelecciones\obj\Debug\net9.0\ref\Programadeelecciones.dll

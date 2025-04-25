@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Programadeelecciones/1.0.0": {
+        "runtime": {
+          "Programadeelecciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programadeelecciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
