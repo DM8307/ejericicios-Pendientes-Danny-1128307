@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\bin\Debug\net9.0\TriangulosClases.exe
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\bin\Debug\net9.0\TriangulosClases.deps.json
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\bin\Debug\net9.0\TriangulosClases.runtimeconfig.json
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\bin\Debug\net9.0\TriangulosClases.dll
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\bin\Debug\net9.0\TriangulosClases.pdb
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\TriangulosClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\TriangulosClases.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\TriangulosClases.AssemblyInfo.cs
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\TriangulosClases.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\TriangulosClases.dll
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\refint\TriangulosClases.dll
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\TriangulosClases.pdb
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\TriangulosClases.genruntimeconfig.cache
+C:\Users\Danny\source\repos\TriangulosClases\TriangulosClases\obj\Debug\net9.0\ref\TriangulosClases.dll
