@@ -1,0 +1,17 @@
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\bin\Debug\net9.0-windows\Flag Quiz Danny.exe
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\bin\Debug\net9.0-windows\Flag Quiz Danny.deps.json
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\bin\Debug\net9.0-windows\Flag Quiz Danny.runtimeconfig.json
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\bin\Debug\net9.0-windows\Flag Quiz Danny.dll
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\bin\Debug\net9.0-windows\Flag Quiz Danny.pdb
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag_Quiz_Danny.Form1.resources
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag_Quiz_Danny.Properties.Resources.resources
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag Quiz Danny.csproj.GenerateResource.cache
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag Quiz Danny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag Quiz Danny.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag Quiz Danny.AssemblyInfo.cs
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag Quiz Danny.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag Quiz Danny.dll
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\refint\Flag Quiz Danny.dll
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag Quiz Danny.pdb
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\Flag Quiz Danny.genruntimeconfig.cache
+C:\Users\Danny\source\repos\Flag Quiz Danny\Flag Quiz Danny\obj\Debug\net9.0-windows\ref\Flag Quiz Danny.dll
