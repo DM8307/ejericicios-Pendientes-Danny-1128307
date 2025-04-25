@@ -1,0 +1,10 @@
+C:\Users\Danny\source\repos\MIADanny\MIADanny\bin\Debug\MIADanny.exe.config
+C:\Users\Danny\source\repos\MIADanny\MIADanny\bin\Debug\MIADanny.exe
+C:\Users\Danny\source\repos\MIADanny\MIADanny\bin\Debug\MIADanny.pdb
+C:\Users\Danny\source\repos\MIADanny\MIADanny\obj\Debug\MIADanny.csproj.AssemblyReference.cache
+C:\Users\Danny\source\repos\MIADanny\MIADanny\obj\Debug\MIADanny.Form1.resources
+C:\Users\Danny\source\repos\MIADanny\MIADanny\obj\Debug\MIADanny.Properties.Resources.resources
+C:\Users\Danny\source\repos\MIADanny\MIADanny\obj\Debug\MIADanny.csproj.GenerateResource.cache
+C:\Users\Danny\source\repos\MIADanny\MIADanny\obj\Debug\MIADanny.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\MIADanny\MIADanny\obj\Debug\MIADanny.exe
+C:\Users\Danny\source\repos\MIADanny\MIADanny\obj\Debug\MIADanny.pdb
